@@ -3,7 +3,7 @@
 Welcome to Hotel Miranda, a beautifully designed hotel website showcasing luxury, comfort, and convenience. This project highlights modern web development practices and a seamless user experience.
 ## Live Demo
 
-Check out the live website here: [Visit Website](https://yourwebsiteurl.com)
+Check out the live website here: [Visit Website](https://hemzaaaaaa.github.io/hotel/)
 
 ## 🚀 Features
 - Responsive Design: Ensures compatibility across various  devices (desktop, tablet, and mobile).
@@ -15,18 +15,18 @@ Check out the live website here: [Visit Website](https://yourwebsiteurl.com)
 - And much more!
 
 ## 🛠️ Technologies Used
-- HTML5: For the structure and layout of the website.
-- CSS3: For styling and responsiveness.
-- JavaScript: For interactivity and dynamic features.
-- Remix Icons: For modern iconography.
-- ScrollReveal.js: For smooth animations on scroll.
+1. HTML5: For the structure and layout of the website.
+2. CSS3: For styling and responsiveness.
+3. JavaScript: For interactivity and dynamic features.
+4. Remix Icons: For modern iconography.
+5. ScrollReveal.js: For smooth animations on scroll.
 
 ## 📁 Project Structure
-Hotel/
-├── assets/
-│   ├── images/        # Contains images for the website
-│   ├── videos/        # Contains video assets
-├── index.html         # Main HTML file
-├── style.css          # CSS styles
-├── script.js          # JavaScript functionality
-└── README.md          # Project documentation
+* Hotel/
+* ├── assets/
+* │   ├── images/         `#Contains images for the website`
+* │
+* ├── index.html          `# Main HTML file`
+* ├── style.css           `# CSS styles`
+* ├── script.js           `# JavaScript functionality`
+* └── README.md           `# Project documentation`
