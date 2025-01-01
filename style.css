@@ -86,6 +86,20 @@
   font-size: 2rem;
 }
 
+select{
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: var(--secondary-color);
+  cursor: pointer;
+}
+
+select:focus {
+  outline: none;
+  border-color: #4CAF50;
+}
+
 img,
 video {
   width: 100%;
